@@ -1,0 +1,14 @@
+{
+  "name": "openpgp-test-1605",
+  "version": "1.0.0",
+  "description": "A test to demonstrate a public key issue with OpenPGP v4.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "contact@passbolt.com",
+  "license": "MIT",
+  "dependencies": {
+    "openpgp": "4.7.0"
+  }
+}
